@@ -1,0 +1,1 @@
+/Users/anubhavsingh/Desktop/OpenSource/madhavi/Augura/contracts/prediction/target/wasm32v1-none/release/prediction.wasm: /Users/anubhavsingh/Desktop/OpenSource/madhavi/Augura/contracts/prediction/src/lib.rs

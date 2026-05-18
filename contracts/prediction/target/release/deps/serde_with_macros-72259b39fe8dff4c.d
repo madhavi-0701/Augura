@@ -1,0 +1,8 @@
+/Users/anubhavsingh/Desktop/OpenSource/madhavi/Augura/contracts/prediction/target/release/deps/serde_with_macros-72259b39fe8dff4c.d: /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/lib.rs /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/apply.rs /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/lazy_bool.rs /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/utils.rs
+
+/Users/anubhavsingh/Desktop/OpenSource/madhavi/Augura/contracts/prediction/target/release/deps/libserde_with_macros-72259b39fe8dff4c.dylib: /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/lib.rs /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/apply.rs /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/lazy_bool.rs /Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/utils.rs
+
+/Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/lib.rs:
+/Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/apply.rs:
+/Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/lazy_bool.rs:
+/Users/anubhavsingh/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde_with_macros-3.20.0/src/utils.rs:
